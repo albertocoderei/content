@@ -1,80 +1,76 @@
 {
-   "1":{
-      "vocabulary": {
-		"key": "apple",
-		"word": "Apple",
-		"pronunciation": "æm",
-		"content": [
-		{
-		    "avatarUrl":
-          "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_400x400.jpg",
+  "1": {
+    "vocabulary": {
+      "key": "apple",
+      "word": "Apple",
+      "pronunciation": "æm",
+      "content": [
+        {
+          "avatarUrl": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_400x400.jpg",
           "author": "POTUS",
           "authorName": "Cejas Largas",
           "body": "I eat an Apple"
-		},
-		{
-		    "avatarUrl":
-          "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_400x400.jpg",
+        },
+        {
+          "avatarUrl": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_400x400.jpg",
           "author": "POTUS",
           "authorName": "Cejas Largas",
           "body": "My father loved apples"
-		}
-		],
-		"alternatives": [
-		{
-			"key": "jump",
-			"word": "Jump",
-			"pronunciation": "æm"
-		},
-		{
-			"key": "run",
-			"word": "Run",
-			"pronunciation": "æm"
-		},
-		{
-			"key": "climb",
-			"word": "Climb",
-			"pronunciation": "æm"
-		}
-		]
-	  }
-      "verb": {
-		"key": "am",
-		"word": "Am",
-		"pronunciation": "æm",
-		"content": [
-		{
-		    "avatarUrl":
-          "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_400x400.jpg",
+        }
+      ],
+      "alternatives": [
+        {
+          "key": "jump",
+          "word": "Jump",
+          "pronunciation": "æm"
+        },
+        {
+          "key": "run",
+          "word": "Run",
+          "pronunciation": "æm"
+        },
+        {
+          "key": "climb",
+          "word": "Climb",
+          "pronunciation": "æm"
+        }
+      ]
+    },
+    "verb": {
+      "key": "am",
+      "word": "Am",
+      "pronunciation": "æm",
+      "content": [
+        {
+          "avatarUrl": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_400x400.jpg",
           "author": "POTUS",
           "authorName": "Cejas Largas",
           "body": "I am a Programmer"
-		},
-		{
-		    "avatarUrl":
-          "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_400x400.jpg",
+        },
+        {
+          "avatarUrl": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_400x400.jpg",
           "author": "POTUS",
           "authorName": "Cejas Largas",
           "body": "I am the president"
-		}
-		],
-		"alternatives": [
-		{
-			"key": "tree",
-			"word": "Tree",
-			"pronunciation": "æm"
-		},
-		{
-			"key": "car",
-			"word": "Car",
-			"pronunciation": "æm"
-		},
-		{
-			"key": "cat",
-			"word": "Cat",
-			"pronunciation": "æm"
-		}
-		]
-	  }
-   }
+        }
+      ],
+      "alternatives": [
+        {
+          "key": "tree",
+          "word": "Tree",
+          "pronunciation": "æm"
+        },
+        {
+          "key": "car",
+          "word": "Car",
+          "pronunciation": "æm"
+        },
+        {
+          "key": "cat",
+          "word": "Cat",
+          "pronunciation": "æm"
+        }
+      ]
+    }
+  }
 }
