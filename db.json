@@ -45,7 +45,7 @@
           }
         ]
       },
-      "verb": {
+      "grammar": {
         "key": "am",
         "word": "Am",
         "pronunciation": "æm",
@@ -129,7 +129,7 @@
           }
         ]
       },
-      "verb": {
+      "grammar": {
         "key": "am",
         "word": "Bin",
         "pronunciation": "bin",
